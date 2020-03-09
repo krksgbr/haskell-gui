@@ -1,0 +1,11 @@
+dist
+cabal-dev
+*.o
+*.hi
+*.chi
+*.chs.h
+.virthualenv
+*.lkshf
+/dist-newstyle/
+/.stack-work/
+*.project.local
